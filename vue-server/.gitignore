@@ -1,0 +1,9 @@
+﻿# 忽略文件夹
+/.idea/
+/.git/
+/node_modules/
+
+
+
+
+
